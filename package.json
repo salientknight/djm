@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default", 
+  "name": "daniel-j-moylan",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "description": "An Author Site",
+  "version": "0.1.1",
+  "author": "Daniel Lefebvre>",
   "dependencies": {
     "@popperjs/core": "^2.6.0",
     "bootstrap": "^5.2.3",
